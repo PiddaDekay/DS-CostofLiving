@@ -1,6 +1,6 @@
 # DS-Project-CostofLiving
 
-Analyze to get best place to leave based on  food cost, travel cost, living cost, lifestyle cost, education cost, and income
+Get best place to leave based on  food cost, travel cost, living cost, lifestyle cost, education cost, and income
 
 Total_Score = (food cost + travel cost + living cost + lifestyle cost + education cost + income) w/samescale / 6
 
